@@ -36,9 +36,10 @@ The project culminates in a comprehensive analysis, backed by SQL queries, visua
 
 Final Analysis
 
-SQL queries addressing the management’s questions.
-Visualizations in Tableau Public.
-A narrative story combining data insights with business strategies.
++ SQL queries addressing the management’s questions.
++ Visualizations in Tableau Public.
++ A narrative story combining data insights with business strategies.
+
 Visualizations
 Check out the Tableau Public dashboard for interactive insights. [Tableau Public](https://public.tableau.com/views/CF_Task_3_10_process/Hihgest_revenue_films?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
