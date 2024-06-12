@@ -1,3 +1,5 @@
+# #This SQL Query will the average amount paid by the top 5 customers using a CTE
+
 WITH average_amount_cte (customer_id, first_name, last_name, country, city) AS
 (SELECT
 B.customer_id, 
