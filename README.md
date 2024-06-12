@@ -28,6 +28,7 @@ This project involves using SQL for in-depth data analysis to address queries fr
 Data Set
 
 The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
+[Rockbuster Database] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 Rockbuster Data Set Project Deliverables
 
