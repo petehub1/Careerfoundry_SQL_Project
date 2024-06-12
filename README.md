@@ -44,5 +44,5 @@ Visualizations
 Check out the Tableau Public dashboard for interactive insights. [Tableau Public](https://public.tableau.com/views/CF_Task_3_10_process/Hihgest_revenue_films?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 Final Project PDF
-Find a detailed report in the [Final Project PDF](file:///C:/Users/peter/OneDrive/CareerFoundry/DataImmerse/3%20Databases%20and%20SQl%20for%20Analysts/Task10/uploaded/Peter_Pap_Task_3_10_PRESENTATION.pdf).
+Find a detailed report in the [Final Project PDF](https://github.com/petehub1/Careerfoundry_SQL_Project/blob/main/FINAL_Presentation.pdf).
 
