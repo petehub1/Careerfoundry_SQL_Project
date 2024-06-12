@@ -29,9 +29,7 @@ Data Set
 
 The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 
-Rockbuster Data Set
-
-Project Deliverables
+Rockbuster Data Set Project Deliverables
 
 The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 
